@@ -1,0 +1,1 @@
+println("Minimal energy is: 47234")

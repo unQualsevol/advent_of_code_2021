@@ -1,0 +1,85 @@
+Manual implementation
+
+- Start
+#############
+#...........#
+###D#B#A#C###
+  #B#D#A#C#
+  #########
+
+- Step Energy: 7, Current total: 7
+#############
+#A..........#
+###D#B#.#C###
+  #B#D#A#C#
+  #########
+
+- Step Energy: 7, Current total: 14
+#############
+#AA.........#
+###D#B#.#C###
+  #B#D#.#C#
+  #########
+
+- Step Energy: 500, Current total: 514
+#############
+#AA.........#
+###D#B#.#.###
+  #B#D#C#C#
+  #########
+
+- Step Energy: 500, Current total: 1014
+#############
+#AA.........#
+###D#B#C#.###
+  #B#D#C#.#
+  #########
+
+- Step Energy: 9000, Current total: 10014
+#############
+#AA.........#
+###.#B#C#.###
+  #B#D#C#D#
+  #########
+
+- Step Energy: 20, Current total: 10034
+#############
+#AA.B.......#
+###.#.#C#.###
+  #B#D#C#D#
+  #########
+
+- Step Energy: 7000, Current total: 17034
+#############
+#AA.B.......#
+###.#.#C#D###
+  #B#.#C#D#
+  #########
+
+- Step Energy: 30, Current total: 17064
+#############
+#AA.........#
+###.#.#C#D###
+  #B#B#C#D#
+  #########
+
+- Step Energy: 50, Current total: 17114
+#############
+#AA.........#
+###.#B#C#D###
+  #.#B#C#D#
+  #########
+
+- Step Energy: 3, Current total: 17117
+#############
+#A..........#
+###.#B#C#D###
+  #A#B#C#D#
+  #########
+
+- Step Energy: 3, Current total: 17120
+#############
+#...........#
+###A#B#C#D###
+  #A#B#C#D#
+  #########
